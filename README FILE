@@ -1,0 +1,79 @@
+1. Източници, от които съм използвал за помощ за съдържание на темите в уебсайта или правене на  някои елементи от уебсайта ми.
+
+а) източници, които са ми помогнали за правене на някои елементи от моя уебсайт:
+- w3schools
+
+б) източници, които ми помогнаха за съдържанието, информацията на темите в моя уебсайт:
+- Wikipedia
+- money.bg
+- dir.bg
+
+2. Източници, от които да публикувам уебсайта и да го направя самия уебсайт.
+
+а) Източник, от който съм направил целия уебсайт е:
+- Visual Studio Code
+
+б) Източници, за да публикувам моя уебсайт са:
+- infinityfree.com
+- Google Search Console
+
+3. Защо съм направил по такъв начин уебсайта ми(Инструкции за правилно стартиране на решението Ви)
+
+За да откриете и стартирате уебсайта ми, трябва да отидете на следния URL адрес: https://lyubitelizavlakove.great-site.net/lyubitelinavlakove.html   или напишете в Google  lyubitelizavlakove.great-site.net , ако URL адреса не работи. Или изчакайте и пробвайте пак.
+
+Или отидете на тези следни URL адреси: https://lyubitelizavlakove.great-site.net/burzi vlakove.html 
+https://lyubitelizavlakove.great-site.net/vidove vlakove.html
+https://lyubitelizavlakove.great-site.net/stranni vlakove.html
+https://lyubitelizavlakove.great-site.net/VKSIB.html
+https://lyubitelizavlakove.great-site.net/IZPNDSVB.html
+https://lyubitelizavlakove.great-site.net/sravneniezavlakove.html
+https://lyubitelizavlakove.great-site.net/contact.html
+
+Или напишете бързи влакове, видове влакове, контакти, сравнение за скоростите, странни влакове , ако URL адресите не работят. Или изчакайте и пробвайте пак.
+
+4. източници, от които съм намерил снимките
+
+- Wikipedia
+- money.bg
+- dir.bg
+- Freepik
+- pinterest
+
+5. кода, от който много се гордея първата част 
+
+- JavaScript анимация:
+  var V0 = null;
+    function mufr()
+    {
+        var objectimage = document.getElementById('ed3');   
+     var pozicia = 0;
+     clearInterval(V0);
+     V0 = setInterval(frame, 1);
+     function frame() {
+    if (pozicia == 350) {
+        document.getElementById('de').style.visibility="visible";
+      document.getElementById('de').innerHTML=„ текст" ;
+      clearInterval(V0); 
+    } 
+
+6. кода, от който много се гордея втора част.
+
+else {
+      document.getElementById('de').style.visibility="hidden";
+      pozicia++; 
+      
+      objectimage.style.left = pozicia + 'px'; 
+      
+    }
+  }
+}
+
+7. На кратко какво съдържа моя уебсайт
+
+Моя уебсайт е от 8 уебстраници, които са: главна страница, бързи влакове, видове влакове, странни влакове, българските влакове, историята за българските влакове, сравнение за скоростите на влаковете и контакти.
+
+Моя уебсайт съдържа накратко за тези уебстраници, има в тях съдържа снимки, заглавие, подзаглавие, видеа, елементи показващи скоростите на влаковете и други.
+
+Моя уебсайт е подходящ за всички възрастови групи.
+
+Край на презентацията и Благодаря за Вниманието
