@@ -30,7 +30,7 @@ https://lyubitelizavlakove.great-site.net/sravneniezavlakove.html
 https://lyubitelizavlakove.great-site.net/contact.html
 
 Или напишете "бързи влакове, видове влакове, контакти, сравнение за скоростите, странни влакове", ако URL адресите не работят. Или изчакайте и пробвайте пак.
-уебсайта е публикуван и можете да влезете на 3 точка следните URL адреси.
+Уебсайтът е публикуван и можете да влезете в него на посочените в 3 точка от README FILE.md  URL адреси за уебсайта: lyubitelinavlakove.great-site.net и на отделните му уебстраници.
 
 
 
