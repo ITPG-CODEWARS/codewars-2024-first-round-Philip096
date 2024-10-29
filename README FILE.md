@@ -45,9 +45,9 @@ https://lyubitelizavlakove.great-site.net/contact.html
   
      var V0 = null;
   
-     function mufr()
+      function mufr()
   
-     {
+      {
 
       var objectimage = document.getElementById('ed3');
   
@@ -81,9 +81,9 @@ https://lyubitelizavlakove.great-site.net/contact.html
       
       }
   
-   }
+    }
 
-}
+ }
 
 6. Накратко какво съдържа моя уебсайт:
 
