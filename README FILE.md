@@ -44,7 +44,9 @@ https://lyubitelizavlakove.great-site.net/contact.html
 - JavaScript анимация:
   
     var V0 = null;
+  
     function mufr()
+  
     {
 
      var objectimage = document.getElementById('ed3');
