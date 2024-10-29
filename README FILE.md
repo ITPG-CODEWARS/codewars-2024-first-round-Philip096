@@ -54,9 +54,11 @@ https://lyubitelizavlakove.great-site.net/contact.html
   
      V0 = setInterval(frame, 1);
   
-     function frame() {
+     function frame()
+     {
   
-    if (pozicia == 350) {
+       if (pozicia == 350)
+       {
   
         document.getElementById('de').style.visibility="visible";
   
@@ -64,11 +66,12 @@ https://lyubitelizavlakove.great-site.net/contact.html
   
       clearInterval(V0);
   
-    } 
+       } 
 
 6. кода, с който много се гордея - втора част
 
-else {
+else 
+  {
 
       document.getElementById('de').style.visibility="hidden";
       
@@ -76,8 +79,10 @@ else {
       
       objectimage.style.left = pozicia + 'px'; 
       
-    }
   }
+  
+ }
+
 }
 
 7. Накратко какво съдържа моя уебсайт:
