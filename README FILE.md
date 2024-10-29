@@ -42,11 +42,12 @@ https://lyubitelizavlakove.great-site.net/contact.html
 5. кода, с който много се гордея - първа част 
 
 - JavaScript анимация:
-  var V0 = null;
   
+    var V0 = null;
     function mufr()
     {
-        var objectimage = document.getElementById('ed3');
+
+     var objectimage = document.getElementById('ed3');
   
      var pozicia = 0;
   
@@ -67,9 +68,8 @@ https://lyubitelizavlakove.great-site.net/contact.html
       clearInterval(V0);
   
        } 
-
-  else 
-  {
+   else 
+   {
 
       document.getElementById('de').style.visibility="hidden";
       
@@ -77,7 +77,7 @@ https://lyubitelizavlakove.great-site.net/contact.html
       
       objectimage.style.left = pozicia + 'px'; 
       
-  }
+   }
   
   }
 
