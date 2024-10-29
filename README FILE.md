@@ -49,16 +49,16 @@ https://lyubitelizavlakove.great-site.net/contact.html
   
     {
 
-     var objectimage = document.getElementById('ed3');
+      var objectimage = document.getElementById('ed3');
   
-     var pozicia = 0;
+      var pozicia = 0;
   
-     clearInterval(V0);
+      clearInterval(V0);
   
-     V0 = setInterval(frame, 1);
+      V0 = setInterval(frame, 1);
   
      function frame()
-      {
+     {
   
        if (pozicia == 350)
        {
@@ -70,8 +70,8 @@ https://lyubitelizavlakove.great-site.net/contact.html
       clearInterval(V0);
   
        } 
-   else 
-   {
+      else 
+      {
 
       document.getElementById('de').style.visibility="hidden";
       
@@ -79,7 +79,7 @@ https://lyubitelizavlakove.great-site.net/contact.html
       
       objectimage.style.left = pozicia + 'px'; 
       
-   }
+      }
   
   }
 
