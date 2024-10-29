@@ -43,23 +43,35 @@ https://lyubitelizavlakove.great-site.net/contact.html
 
 - JavaScript анимация:
   var V0 = null;
+  
     function mufr()
     {
-        var objectimage = document.getElementById('ed3');   
+        var objectimage = document.getElementById('ed3');
+  
      var pozicia = 0;
+  
      clearInterval(V0);
+  
      V0 = setInterval(frame, 1);
+  
      function frame() {
+  
     if (pozicia == 350) {
+  
         document.getElementById('de').style.visibility="visible";
+  
       document.getElementById('de').innerHTML=„ текст" ;
-      clearInterval(V0); 
+  
+      clearInterval(V0);
+  
     } 
 
 6. кода, с който много се гордея - втора част
 
 else {
+
       document.getElementById('de').style.visibility="hidden";
+      
       pozicia++; 
       
       objectimage.style.left = pozicia + 'px'; 
