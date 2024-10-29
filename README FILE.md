@@ -36,8 +36,11 @@ https://lyubitelizavlakove.great-site.net/contact.html
 
  Ако теглите моя уебсайт да не забравите, че трябва изтеглените снимки да се сложат в папка, която да се казва lyubitelinavlakove-snimki
 
- 
- 
+
+ И да допълня, че името на уебсайта ми е lyubiteli na vlakove.great-site.com, но URL адреса за публикуване е lyubiteli za vlakove.great-site.com 
+
+
+
 4. източници, от които съм намерил снимките:
 
 - Wikipedia
