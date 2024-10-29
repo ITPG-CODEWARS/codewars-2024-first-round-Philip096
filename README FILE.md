@@ -43,7 +43,7 @@ https://lyubitelizavlakove.great-site.net/contact.html
 
 - JavaScript анимация:
   
-     var V0 = null;
+       var V0 = null;
   
       function mufr()
   
@@ -57,33 +57,33 @@ https://lyubitelizavlakove.great-site.net/contact.html
   
       V0 = setInterval(frame, 1);
   
-     function frame()
-     {
-  
-       if (pozicia == 350)
+       function frame()
        {
   
-        document.getElementById('de').style.visibility="visible";
+         if (pozicia == 350)
+         {
   
-      document.getElementById('de').innerHTML=„ текст" ;
+          document.getElementById('de').style.visibility="visible";
   
-      clearInterval(V0);
+         document.getElementById('de').innerHTML=„ текст" ;
   
-       } 
-      else 
-      {
+          clearInterval(V0);
+  
+         } 
+        else 
+        {
 
-      document.getElementById('de').style.visibility="hidden";
+          document.getElementById('de').style.visibility="hidden";
       
-      pozicia++; 
+          pozicia++; 
       
-      objectimage.style.left = pozicia + 'px'; 
+          objectimage.style.left = pozicia + 'px'; 
       
+        }
+  
+       }
+
       }
-  
-    }
-
- }
 
 6. Накратко какво съдържа моя уебсайт:
 
