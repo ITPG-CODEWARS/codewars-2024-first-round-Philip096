@@ -43,11 +43,11 @@ https://lyubitelizavlakove.great-site.net/contact.html
 
 - JavaScript анимация:
   
-    var V0 = null;
+     var V0 = null;
   
-    function mufr()
+     function mufr()
   
-    {
+     {
 
       var objectimage = document.getElementById('ed3');
   
@@ -81,7 +81,7 @@ https://lyubitelizavlakove.great-site.net/contact.html
       
       }
   
-  }
+   }
 
 }
 
